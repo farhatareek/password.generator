@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(245, 245, 210) !important;
+}
+.input-gn{
+    color: black !important;
+}
+.copy-btn{
+    background-color: transparent;
+    margin-left: 120px;
+}
+
+@media only screen and (max-width: 600px) {
+    .copy-btn {
+    margin-left: 70px;
+    }
+    }
